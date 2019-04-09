@@ -1,0 +1,4 @@
+﻿  highscore.cpp
+c:\users\administrador\desktop\highscore\highscore\highscore\highscore.h(9): error C2087: 'score': falta el subíndice
+c:\users\administrador\desktop\highscore\highscore\highscore\highscore.h(9): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\administrador\desktop\highscore\highscore\highscore\highscore.h(9): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.

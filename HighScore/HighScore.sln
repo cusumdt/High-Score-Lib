@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HighScore", "HighScore\HighScore.vcxproj", "{4F673A6E-EE2A-4778-953F-8E6D87D87F19}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PruebaHighScore", "PruebaHighScore\PruebaHighScore.vcxproj", "{34E52E91-42D1-4334-8C32-BA1B7EEDA9CC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4F673A6E-EE2A-4778-953F-8E6D87D87F19} = {4F673A6E-EE2A-4778-953F-8E6D87D87F19}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

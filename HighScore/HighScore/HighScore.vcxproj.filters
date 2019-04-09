@@ -18,9 +18,15 @@
     <ClCompile Include="highscore.cpp">
       <Filter>Archivos de encabezado</Filter>
     </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="highScore.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="score.h">
       <Filter>Archivos de origen</Filter>
     </ClInclude>
   </ItemGroup>
